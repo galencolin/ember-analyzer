@@ -1,0 +1,10 @@
+['Training data']
+
+QDA (accuracy): [0.70068]
+
+QDA (auc): [0.7781582356426862]
+
+QDA (precision): [0.6971208141683303]
+
+QDA (recall): [0.8586712376757921]
+

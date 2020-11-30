@@ -1,0 +1,10 @@
+['Training data']
+
+SGD (accuracy): [0.59108]
+
+SGD (auc): [0.7108781779711728]
+
+SGD (precision): [0.644896658397324]
+
+SGD (recall): [0.8413716583385795]
+

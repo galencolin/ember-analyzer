@@ -1,0 +1,10 @@
+['Training data']
+
+Neural Net (accuracy): [0.6228800000000001]
+
+Neural Net (auc): [0.6152904228762599]
+
+Neural Net (precision): [0.7537831006979578]
+
+Neural Net (recall): [0.6865653423383793]
+

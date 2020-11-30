@@ -1,0 +1,10 @@
+['Training data']
+
+Naive Bayes (accuracy): [0.4800400000000001]
+
+Naive Bayes (auc): [0.6296007435340921]
+
+Naive Bayes (precision): [0.8764897498438351]
+
+Naive Bayes (recall): [0.0642754959316614]
+
